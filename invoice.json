@@ -15,7 +15,7 @@
       "CoraAP__Bill_To_Address1__c": "test1",
       "CoraAP__Comments__c": "OLYMPUS AMERICA INC.",
       "CoraAP__Bill_To_Country__c": "UK",
-      "CoraAP__DocArrival_Date__c": "03-06-2007 01:44",
+      "CoraAP__DocArrival_Date__c": "03/06/2007 01:44:00",
       "CoraAP__Current_Approval_Group__c": "a1k5w000003mFzI",
       "CoraAP__Vendor__c": "0015w00002RGM5x",
       "CoraAP__Exception_Reason__c": "Other Charge Mismatch",
