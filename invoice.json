@@ -8,7 +8,7 @@
       "AP_TS_Date__c": "2019-06-25 01:11:28.954",
       "CoraAP__Invoice_Date__c": "2019-06-25 01:11:28.954",
       "CoraAP__Priority__c": "High",
-      "CoraAP__APLegal_Entity__c": "a018c00000b8EN7AAM",
+      "CoraAP__APLegal_Entity__c": "",
       "CoraAP__Document_Type__c": "PO Invoice",
       "CoraAP__Invoice_Type__c": "Goods/Material",
       "CoraAP__Currency__c": "AUD",
