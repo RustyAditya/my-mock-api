@@ -5,9 +5,9 @@
             "Source_System": "SAP",
             "AP_External_Key__c": "SAP000001000314",
             "Internal_order_code": "000001000314",
-            "Company_Code_Unique_Key": "90680",
+            "Company_Code_Unique_Key": "SAP-1710",
             "Internal_Order_Description": "",
-            "Company_Code": "90680",
+            "Company_Code": "SAP-1710",
             "Active_Flag": "X",
             "Batch_ID": "SAP"
         },
